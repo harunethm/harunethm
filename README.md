@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harunethm
+- 👀 I’m interested in web and mobile applications
+- 🌱 I’m currently learning ASP.NET MVC Framework with HTML and CSS
+- 💞️ I’m looking to collaborate on web applications
+- 📫 You can reach me with harunethm@gmail.com 
