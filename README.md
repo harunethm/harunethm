@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harun Ethem CALIS
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on mobile applications
+- 🏢 I’m currently working as a Junior Flutter Developer
+- 🌱 I'm still learning and develop myself about new technologies
 - 📫 You can reach me with harunethm@gmail.com 
